@@ -30,4 +30,7 @@ Knowing where you are in the filesystem is the foundation of everything in Linux
 Continue Linux Fundamentals using NetworkChuck videos and HBT Academy labs.
 
 ##GREAT THINGS ARE NOT DONE BY IMPULSE, BUT BY A SERIES OF SMALL THINGS BROUGHT TOGETHER.
+
+
 Paused NetworkChuck video #2 at 10:05. Clarified the difference between `bin` and `/bin`. Learned about absolute vs relative paths.
+Learned the difference between relative paths (bin) and absolute paths (/bin). Linux looks in the current directory unless a path starts with /.
