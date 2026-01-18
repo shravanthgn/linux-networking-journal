@@ -34,3 +34,4 @@ Continue Linux Fundamentals using NetworkChuck videos and HBT Academy labs.
 
 Paused NetworkChuck video #2 at 10:05. Clarified the difference between `bin` and `/bin`. Learned about absolute vs relative paths.
 Learned the difference between relative paths (bin) and absolute paths (/bin). Linux looks in the current directory unless a path starts with /.
+Did not actively practice today. Took a mental break to avoid burnout and will resume tomorrow.
