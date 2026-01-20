@@ -1,4 +1,4 @@
-# Day 4 – Passive Learning (HTB Notes)
+# Day 7 – Passive Learning (HTB Notes)
 
 ## What I did today
 - Went through HTB Academy Linux Fundamentals notes
