@@ -21,3 +21,5 @@ Not every day needs hands-on practice. Reading and letting concepts settle is al
 
 ## Next goal
 Resume active practice in Ubuntu VM and continue Linux fundamentals steadily.
+
+journal streak - 21-01-2026
