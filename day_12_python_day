@@ -1,0 +1,17 @@
+# Day 12 – Python Fundamentals & Variables
+
+## What I did today
+- Watched the first two videos of NetworkChuck's Python course.
+- Decided to use my Ubuntu VM Terminal (`python3`) as my learning playground instead of Replit.
+- Practiced creating and printing variables directly in the Linux terminal.
+
+## Concepts Learned
+- **The "Box" Concept:** Variables are labeled containers for data.
+- **Data Types:** - Strings (text in quotes)
+    - Integers (whole numbers)
+    - Floats (decimals)
+- **Syntax:** Using `=` to assign values and `print()` to see the output.
+
+## One Takeaway
+Using my own Ubuntu terminal for Python feels more "real" than using a browser-based tool. It helps me practice Linux and Python at the same time.
+
