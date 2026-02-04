@@ -20,4 +20,6 @@
 A switch is like a smart mailman who knows exactly which house a letter belongs to, while a hub is like someone standing in the street shouting the letter's contents to everyone.
 
 ## Next Goal
-Understand the "GPS" of networking: IP Addresses and Subnetting.
+Understand the "GPS" of networking: IP Addresses and Subnetting.]
+##one command to access the activity of frames
+show mac-address-table
